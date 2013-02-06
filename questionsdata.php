@@ -1,4 +1,4 @@
-<?
+<?php
 require_once('auth.php');
 require_once('connect.php');
 
@@ -53,10 +53,4 @@ while($row = mysql_fetch_assoc($result))
     $data["rows"][] = array("id" => $row['id'],
 			    "cell" => array($row['lefttext'],$row['text'],$row['righttext'],$row['enable']));
 }
-    echo json_encode($data);	
-
-
-
-
-
-?>
+    echo json_encode($data);
