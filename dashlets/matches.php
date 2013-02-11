@@ -1,7 +1,7 @@
 <h2>Matches</h2><?php
 if (!$paid)
 {
-    ?><p>To see your matches, please donate $2 to a <?php echo(Settings::$organization);?> representative. <br />Email andrew.reisner@gmail.com for more info.</p>
+    ?><p>To see your matches, please donate $2 to a <?php echo(Settings::$organization);?> representative. <br />Email brett.peterson@wartburg.edu for more info.</p>
 <h3>Representatives</h3>
 <ul>
 <li>brett.peterson@wartburg.edu</li>
