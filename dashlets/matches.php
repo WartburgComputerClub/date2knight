@@ -6,7 +6,7 @@ if (!$paid)
 <ul>
 <li>brett.peterson@wartburg.edu</li>
 <li>jonathan.juett@wartburg.edu</li>
-<li>adam.kucera@petersonb.com</li>
+<li>adam.kucera@wartburg.edu</li>
 <li>matthew.dickman@wartburg.edu</li>
 </ul>
 <h3>Faculty Advisor</h3>
